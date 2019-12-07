@@ -17,3 +17,21 @@
 .aboutus{
     text-align:center;
 }
+.serviceimg{
+background:url(../assets/backgrounds/s_image.jpg);
+left:0;
+top:0;
+background-repeat:no-repeat;
+height:58vh;
+width:100%;
+position:relative;
+}
+.text{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color:white; 
+    text-align: center;
+   
+}
