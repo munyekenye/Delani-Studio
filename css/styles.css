@@ -72,13 +72,36 @@
   background-repeat: no-repeat;
 }
 
-
-
-
 #submit {
 
 	background-color: blue;
 
 	border: none;
 
-	color: white;
+  color: white;
+  padding: 16px 32px;
+
+
+	text-decoration: none;
+
+
+	margin: 4px 2px;
+
+
+	cursor: pointer;
+}
+
+.mouse {
+
+	animation: pulse 5s infinite;
+	padding-top: 2vh;
+	animation-duration: 2s;
+	animation-name: mymouse;
+}
+@keyframes mymouse 
+
+	0%,
+	20%,
+	50%,
+	80%,
+	100% {
