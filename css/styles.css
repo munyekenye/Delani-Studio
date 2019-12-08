@@ -69,4 +69,16 @@
 
 	height: 45vh;
 
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
+}
+
+
+
+
+#submit {
+
+	background-color: blue;
+
+	border: none;
+
+	color: white;
