@@ -1,9 +1,7 @@
 $(document).ready(function(){
 
     $("#dotext").hide(); 
-   
     $("#dotext2").hide();
-   
     $("#dotext3").hide(); 
    
    $(".imagetoggle0 , .imagetoggle1").click(function(){
